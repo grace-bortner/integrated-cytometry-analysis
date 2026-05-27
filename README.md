@@ -3,8 +3,8 @@ Integrated Cytometry Analysis: Python and R
 A methodological comparison of cytometry analysis pipelines across Python and R, examining where computational choices converge, diverge, and shape biological interpretation.
 
 Status:
-In active development. This is the capstone project of a computational immunology portfolio I'm building throughout 2026 as preparation for graduate study. Target completion: August-September 2026.
-This repository depends on the completion of cytometry-python and cytometry-r — the foundational single-language analyses. The work here builds on both.
+In active development. This is the capstone project of a computational immunology portfolio I'm building throughout 2026 as preparation for graduate study. Target completion: August-September 2026. Until then, this README serves as a planning document for the project's scope and structure. Code, notebooks, and figures will be added as each stage of the analysis is completed.
+This repository depends on the completion of cytometry-python and cytometry-r; the work completed here is dependent on both of those repositories. 
 
 Project Goal:
 To take a singular public cytometry dataset and analyze it with parallel pipelines in Python (scanpy + FlowKit) and R (CATALYST + diffcyt). Critical analysis will examine where the two analyses agree, where they diverge, and what those differences reveal about the methodological choices embedded in each ecosystem.
@@ -32,8 +32,9 @@ Background:
 I work a Resource Technologist at the University of Pennsylvania's Institute for Immunology and Immune Health. This portfolio represents independent computational work undertaken in preparation for graduate study in molecular biotechnology. 
 
 See also:
-cytometry-python
-cytometry-r
+
+cytometry-python ; 
+cytometry-r ; 
 python-r-fundamentals
 
 License
